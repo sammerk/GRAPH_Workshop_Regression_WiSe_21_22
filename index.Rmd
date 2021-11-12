@@ -417,7 +417,7 @@ STAR_plotly <-
 htmlwidgets::saveWidget(STAR_plotly, "img/STAR_plotly/STAR_plotly.html")
 ```
 
-<iframe src="img/klausur_plotly/klausur_plotly.html" width="700px" height="400px" data-external="1"></iframe>
+<iframe src="img/STAR_plotly/STAR_plotly.html" width="700px" height="400px" data-external="1"></iframe>
 
 
 
